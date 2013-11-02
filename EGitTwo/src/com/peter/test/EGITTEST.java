@@ -6,6 +6,8 @@ public class EGITTEST {
 		System.out.println("This is the egit 2 Updated");
 		System.out.println("new branch 1 is created");
 		System.out.println("new branch 1 second update");
+		
+		System.out.println("add 1");
 
 	}
 
